@@ -12,7 +12,11 @@ Python 3 https://www.python.org/downloads/
 
 Apache cTAKES 4.0 <https://cwiki.apache.org/confluence/display/CTAKES/cTAKES+4.0+User+Install+Guide>
 
+### Installing dependencies
 
+Use pip installation to install dependencies from requirements.txt
+
+   $ pip install -r requirements.txt
 
 ## Preparing the datasets
 
