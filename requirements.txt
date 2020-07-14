@@ -16,4 +16,4 @@ tensorflow-estimator==1.14.0
 pyodbc==4.0.26
 matplotlib==3.0.3
 hyperopt==0.2.3
-psutil==5.6.1
+psutil==5.6.6
