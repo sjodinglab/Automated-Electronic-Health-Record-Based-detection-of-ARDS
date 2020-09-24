@@ -321,7 +321,6 @@ weight
 AgeInYears
 Compliance
 VR
-sampleweight
 support_hfnc
 support_invasive
 support_noninvasive
@@ -334,6 +333,5 @@ support_unknown
 GenderCode_F
 GenderCode_M
 PatientID
-ards
 time
 EncounterID
